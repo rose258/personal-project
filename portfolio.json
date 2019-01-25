@@ -1,4 +1,6 @@
 
+{ "data": [
+    
     { "portfolio": [
 
             {"name" : "ANGELA & VALENTINA",
@@ -22,5 +24,18 @@
                 "source" : "portfolio/cover"
             }
                    ]
-    }
 
+    },
+    {"aboutMe": {   "studies": [
+    			        "Jóvenes a Programar, rama Desarrollador Web Junior (Ceibal), 2018. ",
+    			        "Bachillerato de arte aprobado, 2017. ",
+    			        "First Certificate in English, Cambridge international), 2017. ",
+    			        "Fotografía nivel 1 y 2, Escuela Uruguaya de Fotografía, 2016. ",
+    			        "Portrait Photography Masterclass - Photoshop Pro Techniques online course, udemy.com 2018. "
+    		                   ]
+    	        }
+
+    }
+    
+          ]
+}
