@@ -5,7 +5,7 @@
         "alt" : "Ojos reflejados en espejo",
         "source" : "portfolio/cover",
               "photosLink": ["https://i.imgur.com/KbMuib9.jpg", "https://i.imgur.com/uWcWxom.jpg"],
-              "photos" : "angela&vale"
+              "photos" : ["angela&vale0", "angela&vale1", "angela&vale2", "angela&vale3", "angela&vale4", "angela&vale5", "angela&vale6"]
     },
     {"name" : "SAN JOSÉ",
         "description" : "Recorrido por la ciudad de San José de mayo, Uruguay.",
