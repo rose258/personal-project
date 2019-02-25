@@ -5,21 +5,18 @@
         "alt" : "Ojos reflejados en espejo",
         "source" : "portfolio/cover",
               "photosLink": ["https://i.imgur.com/ZOHGX1Z.jpg", "https://i.imgur.com/AWOW84K.jpg", "https://i.imgur.com/xXZYJjF.jpg", "https://i.imgur.com/mQhqGIG.jpg", "https://i.imgur.com/PfzJb37.jpg"],
-              "photos" : ["angela&vale0", "angela&vale1", "angela&vale2", "angela&vale3", "angela&vale4", "angela&vale5", "angela&vale6"]
     },
     {"name" : "SAN JOSÉ",
         "description" : "Recorrido por la ciudad de San José de mayo, Uruguay.",
         "alt" : "Puerta encadenada",
         "source" : "portfolio/cover",
                "photosLink": ["https://i.imgur.com/m7u9tkI.jpg", "https://i.imgur.com/IHVWhT4.jpg", "https://i.imgur.com/YE0cC9C.jpg", "https://i.imgur.com/IjvAe81.jpg", "https://i.imgur.com/dBviXsl.jpg", "https://i.imgur.com/XU3S3Vm.jpg", "https://i.imgur.com/jhsm4lQ.jpg", "https://i.imgur.com/pcXhzuO.jpg"],
-               "photos" : "vejez"
     },
     {"name" : "PERSONAJES CLÁSICOS",
         "description" : "Trabajo liceal de 6°to de arte y expresión. La consigna era tomar personajes de cuentos clásicos y llevar a cabo una adaptación propia.",
         "alt" : "Conejo de alicia versión propia. Persona con reloj en el ojo plano alto detalle",
         "source" : "portfolio/cover",
-                "photosLink": ["https://i.imgur.com/KbMuib9.jpg", "https://i.imgur.com/uWcWxom.jpg"],
-                "photos" : "personajes"
+                "photosLink": ["https://i.imgur.com/YRQi3nm.jpg", "https://i.imgur.com/eVsedem.jpg", "https://i.imgur.com/kfa409g.jpg", "https://i.imgur.com/e2zaEwe.jpg", "https://i.imgur.com/HGH0pJ3.jpg", "https://i.imgur.com/AdltbrR.jpg", "https://i.imgur.com/VggISRi.jpg", "https://i.imgur.com/Pd8tNsa.jpg";],
     },
     {"name" : "MIKA",
         "description" : "Sesión fotográfica para tener contenido que compartir en redes sociales.",
